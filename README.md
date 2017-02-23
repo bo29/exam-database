@@ -11,6 +11,7 @@ This is a group project developed by myself and 3 others. The project was design
     -The list should be searchable and sort a number of ways. 
     
 2. Instructor can create an exam using questions from the question bank.
+
     -The instructor should also be able to edit the point values for a question when adding them to an exam.
     
 3. The student should be able to take an exam. Exams are python questions that typically revolve around writing some sort of algorithm.
